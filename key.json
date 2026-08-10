@@ -1,4 +1,12 @@
 {
-  "TOXIC001": "TOXIC001|30|28-08-2026|Aman",
-  "TOXIC002": "TOXIC002|7|17-08-2026|User1"
+  "TOXIC001": {
+    "expiry": "2026-08-28",
+    "hwid": "",
+    "username": "Aman"
+  },
+  "TOXIC002": {
+    "expiry": "2026-08-17",
+    "hwid": "",
+    "username": "User1"
+  }
 }
